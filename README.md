@@ -1,5 +1,3 @@
-# sightdesk_new
-
 A new Flutter project.
 
 ## Getting Started
