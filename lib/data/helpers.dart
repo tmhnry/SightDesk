@@ -1,0 +1,39 @@
+//  JSON Keys
+const String institution = 'institution';
+const String branch = 'branch';
+const String branches = 'branches';
+const String field = 'field';
+const String fields = 'fields';
+const String course = 'course';
+const String courses = 'courses';
+const String curriculum = 'curriculum';
+const String topic = 'topic';
+const String topics = 'topics';
+const String date = 'date';
+const String degree = 'degree';
+const String degrees = 'degrees';
+const String problem_set = 'problem_set';
+const String problem_sets = 'problem_sets';
+const String daily = 'daily';
+const String name = 'name';
+const String id = 'id';
+const String problems = 'problems';
+const String course_units = 'course_units';
+const String choice_units = 'choice_units';
+const String level = 'level';
+const String term = 'term';
+const String question = 'question';
+const String choices = 'choices';
+const String solution = 'solution';
+const String subjects = 'subjects';
+const String value = 'value';
+const String content = 'content';
+const String contents = 'contents';
+
+//
+const String first_year = 'first_year';
+const String second_year = 'second_year';
+const String third_year = 'third_year';
+const String fourth_year = 'fourth_year';
+const String first_semester = 'first_semester';
+const String second_semester = 'second_semester';
